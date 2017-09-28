@@ -1,4 +1,5 @@
 {
-  "name": "MyShop",
-  "displayName": "MyShop"
+  "expo": {
+    "sdkVersion": "20.0.0"
+  }
 }
